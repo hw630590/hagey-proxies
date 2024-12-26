@@ -6,3 +6,4 @@ IP,Port,Protocol(s),Country,Region,City,Provider,ISP,Download Speed,Upload Speed
 139.59.116.86,49310,socks5,SG,Singapore,Singapore,DIGITALOCEAN,"DigitalOcean, LLC",91.2 mbps,5.70 mbps,1ms,26/12/24 at 11:07 AM GMT
 192.111.130.2,4145,socks5,US,Georgia,Atlanta,Performive LLC,Total Server Solutions LLC,8.08 mbps,9.18 mbps,245ms,26/12/24 at 11:26 AM GMT
 172.236.22.168,31111,socks5,GB,England,London,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",17.40 mbps,7.29 mbps,38ms,26/12/24 at 11:30 AM GMT
+67.201.35.145,4145,socks5,US,California,El Segundo,PacketExchange,Total server solutions,7.28 mbps, 4.47 mbps,307ms,26/12/24 at 2:43 PM GMT
