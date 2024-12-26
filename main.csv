@@ -1,6 +1,6 @@
 IP,Port,Protocol(s),Country,Region,City,Provider,ISP,Download Speed,Upload Speed,Ping,Last Checked
 104.37.135.145,4145,socks5,US,California,Los Angeles,Performive LLC,Performive LLC,11.77 mbps,8.72 mbps,244 ms,26/12/24 at 10:33 AM GMT
-140.245.115.151,2080,socks5,SG,Singapore,Singapore,Oracle Corporation,Oracle Corporation,241.4 mbps,13.8 mbps,220 ms,26/12/24
-89.58.2.255,31111,socks5,DE,Bavaria,Nuremberg,netcup GmbH,netcup GmbH,6.5 mbps,0.97 mbps,41 ms,26/12/24
-72.37.217.3,4145,socks5,US,New York,Syracuse,PacketExchange,I Am Responding,11.68 mbps,10.36 mbps,244 ms,26/12/24
-139.59.116.86,49310,socks5,SG,Singapore,Singapore,DIGITALOCEAN,"DigitalOcean, LLC",91.2 mbps,5.70 mbps,1 ms,26/12/24
+140.245.115.151,2080,socks5,SG,Singapore,Singapore,Oracle Corporation,Oracle Corporation,241.4 mbps,13.8 mbps,220 ms,26/12/24 at 10:47 AM GMT
+89.58.2.255,31111,socks5,DE,Bavaria,Nuremberg,netcup GmbH,netcup GmbH,6.5 mbps,0.97 mbps,41 ms,26/12/24 at 10:51 AM GMT
+72.37.217.3,4145,socks5,US,New York,Syracuse,PacketExchange,I Am Responding,11.68 mbps,10.36 mbps,244 ms,26/12/24 at 11:01 AM GMT
+139.59.116.86,49310,socks5,SG,Singapore,Singapore,DIGITALOCEAN,"DigitalOcean, LLC",91.2 mbps,5.70 mbps,1 ms,26/12/24 at 11:07 AM GMT
