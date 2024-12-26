@@ -1,4 +1,4 @@
-IP,Port,Protocol(s),Country,Region,City,Provider,Download Speed, Upload Speed, Ping
-104.37.135.145,4145,socks5,US,California,Los Angeles,Performive LLC,11.77 mbps,8.72 mbps,244 ms
-140.245.115.151,2080,socks5,SG,Singapore,Singapore,Oracle Corporation,241.4 mbps,13.8 mbps,220 ms
-89.58.2.255,31111,socks5,DE,Bavaria,Nuremberg,netcup GmbH,6.5 mbps,0.97 mbps,41 ms
+IP,Port,Protocol(s),Country,Region,City,Provider,Download Speed,Upload Speed,Ping,Last Checked
+104.37.135.145,4145,socks5,US,California,Los Angeles,Performive LLC,11.77 mbps,8.72 mbps,244 ms,26/12/24
+140.245.115.151,2080,socks5,SG,Singapore,Singapore,Oracle Corporation,241.4 mbps,13.8 mbps,220 ms,26/12/24
+89.58.2.255,31111,socks5,DE,Bavaria,Nuremberg,netcup GmbH,6.5 mbps,0.97 mbps,41 ms,26/12/24
