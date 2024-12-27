@@ -1,9 +1,10 @@
-IP,Port,Protocol(s),Country,Region,City,Provider,ISP,Download Speed,Upload Speed,Ping,Last Checked
-104.37.135.145,4145,socks5,US,California,Los Angeles,Performive LLC,Performive LLC,11.77 mbps,8.72 mbps,244ms,26/12/24 at 10:33 AM GMT
-140.245.115.151,2080,socks5,SG,Singapore,Singapore,Oracle Corporation,Oracle Corporation,241.4 mbps,13.8 mbps,220ms,26/12/24 at 10:47 AM GMT
-89.58.2.255,31111,socks5,DE,Bavaria,Nuremberg,netcup GmbH,netcup GmbH,6.5 mbps,0.97 mbps,41ms,26/12/24 at 10:51 AM GMT
-72.37.217.3,4145,socks5,US,New York,Syracuse,PacketExchange,I Am Responding,11.68 mbps,10.36 mbps,244ms,26/12/24 at 11:01 AM GMT
-139.59.116.86,49310,socks5,SG,Singapore,Singapore,DIGITALOCEAN,"DigitalOcean, LLC",91.2 mbps,5.70 mbps,1ms,26/12/24 at 11:07 AM GMT
-192.111.130.2,4145,socks5,US,Georgia,Atlanta,Performive LLC,Total Server Solutions LLC,8.08 mbps,9.18 mbps,245ms,26/12/24 at 11:26 AM GMT
-172.236.22.168,31111,socks5,GB,England,London,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",17.40 mbps,7.29 mbps,38ms,26/12/24 at 11:30 AM GMT
-67.201.35.145,4145,socks5,US,California,El Segundo,PacketExchange,Total server solutions,7.28 mbps, 4.47 mbps,307ms,26/12/24 at 2:43 PM GMT
+IP,Port,Protocol(s),Country,Region,City,Provider,ISP,Download Speed,Upload Speed,Ping
+104.37.135.145,4145,socks5,US,California,Los Angeles,Performive LLC,Performive LLC,11.77 mbps,8.72 mbps,244ms
+140.245.115.151,2080,socks5,SG,Singapore,Singapore,Oracle Corporation,Oracle Corporation,241.4 mbps,13.8 mbps,220ms
+89.58.2.255,31111,socks5,DE,Bavaria,Nuremberg,netcup GmbH,netcup GmbH,6.5 mbps,0.97 mbps,41ms
+72.37.217.3,4145,socks5,US,New York,Syracuse,PacketExchange,I Am Responding,11.68 mbps,10.36 mbps,244ms
+139.59.116.86,49310,socks5,SG,Singapore,Singapore,DIGITALOCEAN,"DigitalOcean, LLC",91.2 mbps,5.70 mbps,1ms
+192.111.130.2,4145,socks5,US,Georgia,Atlanta,Performive LLC,Total Server Solutions LLC,8.08 mbps,9.18 mbps,245ms
+172.236.22.168,31111,socks5,GB,England,London,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",17.40 mbps,7.29 mbps,38ms
+67.201.35.145,4145,socks5,US,California,El Segundo,PacketExchange,Total server solutions,7.28 mbps, 4.47 mbps,307ms
+192.252.220.92,17328,socks5,US,California,Los Angeles,Performive LLC,Total Server Solutions LLC,12.11 mbps,11.88 mbps,248ms
