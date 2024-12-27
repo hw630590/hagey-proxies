@@ -8,3 +8,4 @@ IP,Port,Protocol(s),Country,Region,City,Provider,ISP,Download Speed,Upload Speed
 172.236.22.168,31111,socks5,GB,England,London,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",17.40 mbps,7.29 mbps,38ms
 67.201.35.145,4145,socks5,US,California,El Segundo,PacketExchange,Total server solutions,7.28 mbps, 4.47 mbps,307ms
 192.252.220.92,17328,socks5,US,California,Los Angeles,Performive LLC,Total Server Solutions LLC,12.11 mbps,11.88 mbps,248ms
+184.181.217.210,4145,socks4,US,Florida,Pensacola,Cox Communications Inc,Cox Communications,9.49 mbps,unknown mbps,268ms
