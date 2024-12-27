@@ -1,4 +1,5 @@
 # Proxies
+- VPS IS A BIT SLOW SORRY YALL
 
 ## Introduction
 This repository contains a regularly updated list of **SOCKS4 proxies** in CSV format. The list is refreshed every 10 minutes using a VPS, ensuring up-to-date proxy information.
