@@ -24,7 +24,7 @@ The data is stored in a **CSV** file, which contains the following columns:
 ## How It Works
 1. **Proxy Scraping**: The list of SOCKS4 proxies is fetched from a public proxy source.
 2. **Geolocation**: Each proxy is processed to obtain its country, region, city, and provider details using [IP Info](http://ipinfo.io/json).
-3. **Update Frequency**: The CSV file is updated every 10 minutes to keep the list current.
+3. **Update Frequency**: The CSV file is updated randomly to keep the list current.
 
 ## Future Updates
 We are working on adding support for other proxy types, including:
