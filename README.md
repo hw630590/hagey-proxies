@@ -20,7 +20,6 @@ The data is stored in a **CSV** file, which contains the following columns:
 - `Location` - The North and South estimated location.
 - `Organization` - Whoever is hosting the proxy.
 - `Error` - Not that important, just for errors with proxies.
-- Proxy,Country,Region,City,Location,Organization,Error
 
 ## How It Works
 1. **Proxy Scraping**: The list of SOCKS4 proxies is fetched from a public proxy source.
