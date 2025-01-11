@@ -1,28 +1,26 @@
 # Proxies
-- VPS IS A BIT SLOW SORRY YALL
 
 ## Introduction
-This repository contains a regularly updated list of **SOCKS4 proxies** in CSV format. The list is refreshed every 10 minutes using a VPS, ensuring up-to-date proxy information.
+This repository contains a regularly updated list of **HTTP/HTTPS/SOCKS4/SOCKS5 proxies** in CSV format. The list is refreshed randomly by, ensuring up-to-date proxy information.
 
 ### Current Features
-- **SOCKS4 proxies**: The main focus is on SOCKS4 proxies, with details including IP, port, protocol, country, region, city, provider, and ISP.
-- **Automatic Updates**: The list is automatically fetched and updated every 10 minutes.
+- **HTTP/HTTPS/SOCKS4/SOCKS5 proxies**: The main focus is on SOCKS4 proxies, with details including IP, port, protocol, country, region, city, provider, and ISP.
+- **Random Updates**: The list is updated randomly and checked by me manually..
   
 ### Coming Soon:
-- **HTTP/HTTPS proxies**
-- **SOCKS5 proxies**
+- **HTTPS proxies**
+- **SOCKS5/SOCKS4 proxies**
 
 ## Data Format
 The data is stored in a **CSV** file, which contains the following columns:
-- `IP`: The proxy server's IP address.
-- `Port`: The port number used by the proxy.
-- `Protocol`: The protocol used by the proxy (currently only `socks4`).
-- `Country`: The country where the proxy is located.
-- `Region`: The region of the proxy server.
-- `City`: The city where the proxy is located.
-- `Provider`: The name of the provider hosting the proxy.
-- `ISP`: The ISP providing the proxy service.
-- `Last Checked`: The timestamp of the last time the proxy list was updated.
+- `Proxy` - The main proxy with ip:port
+- `Country` - The country of the proxy. May return unknown.
+- `Region` - The region of the proxy. May return unknown.
+- `City` - The city of the proxy. May return unknown.
+- `Location` - The North and South estimated location.
+- `Organization` - Whoever is hosting the proxy.
+- `Error` - Not that important, just for errors with proxies.
+- Proxy,Country,Region,City,Location,Organization,Error
 
 ## How It Works
 1. **Proxy Scraping**: The list of SOCKS4 proxies is fetched from a public proxy source.
