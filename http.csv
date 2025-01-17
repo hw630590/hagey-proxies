@@ -1,1 +1,155 @@
-Now Updating..
+Proxy,Country,Region,City,Location,Organization,Error
+129.10.76.179:80,CA,British Columbia,Surrey,"49.1063,-122.8251",AS852 TELUS Communications Inc.,None
+98.8.195.160:443,CN,Guangdong,Shenzhen,"22.5455,114.0683",AS4134 CHINANET-BACKBONE,None
+5.78.118.46:60275,IR,Fars,Shiraz,"29.6103,52.5311",AS57511 Innovative Telecom Systems FZE,None
+209.121.164.51:31147,CO,Bolívar,Cartagena,"10.3997,-75.5144",AS13489 UNE EPM TELECOMUNICACIONES S.A.,None
+171.4.95.90:8081,PH,Metro Manila,Quezon City,"14.6488,121.0509",AS132199 Globe Telecom Inc.,None
+113.108.13.120:8083,CN,Guangdong,Shenzhen,"22.5455,114.0683","AS9808 China Mobile Communications Group Co., Ltd.",None
+158.255.77.169:80,CN,Hebei,Shijiazhuang,"38.0414,114.4786",AS4134 CHINANET-BACKBONE,None
+154.85.58.149:80,US,Virginia,Oakton,"38.8809,-77.3008",AS8075 Microsoft Corporation,None
+72.10.160.174:17503,CA,British Columbia,Surrey,"49.1063,-122.8251",AS852 TELUS Communications Inc.,None
+180.127.145.241:1080,US,New York,Buffalo,"42.8864,-78.8784",AS19084 ColoUp,None
+180.191.42.241:8082,CA,Quebec,Montréal,"45.5088,-73.5878",AS16276 OVH SAS,None
+183.238.165.170:9002,CH,Zurich,Zürich,"47.3950,8.4488",AS9009 M247 Europe SRL,None
+27.189.131.51:8089,CN,Hebei,Shijiazhuang,"38.0414,114.4786",AS4134 CHINANET-BACKBONE,None
+172.191.74.198:8080,IN,Telangana,Hyderābād,"17.3840,78.4564","AS55577 Atria Convergence Technologies Ltd.,",None
+209.121.164.50:31147,PH,Soccsksargen,Koronadal,"6.5031,124.8469",AS9299 Philippine Long Distance Telephone Company,None
+162.223.90.130:80,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS56246 PT Sumber Data Indonesia,None
+103.242.105.241:8080,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS138915 Kaopu Cloud HK Limited,None
+142.44.210.174:80,VN,Hanoi,Hanoi,"21.0245,105.8412",AS131414 Long Van Soft Solution JSC,None
+192.73.244.36:80,AE,Dubai,Dubai,"25.0772,55.3093",AS199524 G-Core Labs S.A.,None
+204.157.185.4:999,HK,Hong Kong,Hong Kong,"22.2783,114.1747",AS136907 HUAWEI CLOUDS,None
+84.39.112.144:3128,FR,Île-de-France,Paris,"48.8534,2.3488",AS47583 Hostinger International Limited,None
+196.251.221.33:8102,CO,Bogota D.C.,Bogotá,"4.6097,-74.0817",AS27951 Media Commerce Partners S.A,None
+216.229.112.25:8080,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+47.250.11.111:9080,US,Colorado,Denver,"39.7392,-104.9847",AS212238 Datacamp Limited,None
+112.78.131.6:8080,CN,Shanghai,Shanghai,"31.2222,121.4581",AS56047 China Mobile communications corporation,None
+27.189.129.246:8089,CO,Antioquia,Medellín,"6.2518,-75.5636",AS13489 UNE EPM TELECOMUNICACIONES S.A.,None
+89.116.23.45:80,MX,México,Ixtlahuaca de Rayón,"19.5689,-99.7669",AS174 Cogent Communications,None
+178.128.113.118:23128,ID,East Java,Malang,"-7.9797,112.6304",AS17451 BIZNET NETWORKS,None
+72.10.160.90:25601,CN,Guangdong,Guangzhou,"23.1167,113.2500",AS56040 China Mobile communications corporation,None
+103.148.93.12:8080,CN,Henan,Zhengzhou,"34.7578,113.6486","AS137687 Luoyang, Henan Province, P.R.China.",None
+202.169.38.139:9090,ID,West Java,Pasarkemis,"-6.1703,106.5303",AS9341 PT INDONESIA COMNETS PLUS,None
+110.136.61.7:8080,US,Washington,Seattle,"47.6062,-122.3321","AS40021 Nubes, LLC",None
+72.10.160.90:4215,FR,Hauts-de-France,Roubaix,"50.6942,3.1746",AS16276 OVH SAS,None
+102.209.78.74:8080,DE,Hesse,Frankfurt am Main,"50.1155,8.6842",AS16276 OVH SAS,None
+47.250.11.111:18080,DE,Saxony,Falkenstein,"50.4779,12.3713",AS24940 Hetzner Online GmbH,None
+62.33.53.248:3128,US,North Carolina,Winterville,"35.5290,-77.4011",AS81 MCNC,None
+156.38.112.11:80,TZ,Dar es Salaam Region,Dar es Salaam,"-6.8235,39.2695",AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD,None
+113.192.30.123:8080,ID,Central Java,Purwokerto,"-7.4214,109.2344",AS17451 BIZNET NETWORKS,None
+8.209.255.13:3128,AR,Cordoba,Córdoba,"-31.4135,-64.1810",AS263812 SONDATECH S.A.S.,None
+110.78.85.161:8080,ID,Riau,Batam,"1.1494,104.0249",AS150468 PT Bintang Teknologi Sejahtera,None
+24.152.55.15:999,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+116.68.170.115:8019,BR,Rondônia,Pimenta Bueno,"-11.6725,-61.1936",AS61678 NETWAY INFORMATICA LTDA,None
+190.120.43.43:8080,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+154.90.48.76:80,KR,Seoul,Seoul,"37.5660,126.9784","AS45102 Alibaba (US) Technology Co., Ltd.",None
+103.180.126.42:8181,KR,Seoul,Seoul,"37.5660,126.9784",AS9318 SK Broadband Co Ltd,None
+103.237.144.232:1311,AE,Sharjah,Sharjah,"25.3374,55.4121",AS5384 EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,None
+109.61.42.223:80,CN,Shanghai,Shanghai,"31.2222,121.4581",AS4134 CHINANET-BACKBONE,None
+36.67.194.162:8042,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS147109 PT Internet Keluarga Indonesia,None
+119.13.84.138:3128,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+116.105.17.30:2346,CO,Bogota D.C.,Bogotá,"4.6097,-74.0817",AS262589 SAMM TECNOLOGIA E TELECOMUNICACOES S.A,None
+43.135.78.162:30004,FR,Île-de-France,Paris,"48.8534,2.3488",AS47583 Hostinger International Limited,None
+189.85.82.38:3128,CN,Hebei,Shijiazhuang,"38.0414,114.4786",AS4134 CHINANET-BACKBONE,None
+178.16.129.11:80,FR,Île-de-France,Paris,"48.8534,2.3488",AS12876 SCALEWAY S.A.S.,None
+190.121.145.115:999,ID,Jakarta,Jakarta,"-6.2146,106.8451","AS132203 Tencent Building, Kejizhongyi Avenue",None
+103.228.243.77:8080,US,New York,New York City,"40.7143,-74.0060",AS263829 HOST PARA TU VIDA S.A.,None
+147.75.34.92:10000,HK,Hong Kong,Hong Kong,"22.2783,114.1747","AS45102 Alibaba (US) Technology Co., Ltd.",None
+124.107.144.249:8080,AR,Buenos Aires F.D.,Buenos Aires,"-34.6131,-58.3772",AS10834 Telefonica de Argentina,None
+110.171.40.132:8080,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+180.211.161.110:8080,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+103.106.231.188:42174,SG,Singapore,Sengkang New Town,"1.3917,103.8944",AS4773 MobileOne Ltd. Mobile/Internet Service Provider Singapore,None
+45.92.177.60:8080,KH,Phnom Penh,Phnom Penh,"11.5625,104.9160",AS24492 WiCAM Corporation Ltd.,None
+45.84.138.40:7671,US,New Jersey,North Bergen,"40.8043,-74.0121","AS14061 DigitalOcean, LLC",None
+103.106.231.188:42365,ID,West Java,Bekasi,"-6.2349,106.9896",AS63859 PT. Eka Mas Republik,None
+208.87.243.199:7878,US,Colorado,Denver,"39.7392,-104.9847",AS212238 Datacamp Limited,None
+189.22.234.35:80,GB,England,London,"51.5085,-0.1257",AS35575 Vaioni Group Ltd,None
+183.215.23.242:9091,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS4761 INDOSAT Internet Network Provider,None
+67.43.228.250:20755,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+190.94.212.82:999,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+148.153.56.51:80,ID,West Java,Bekasi,"-6.2349,106.9896",AS17995 PT iForte Global Internet,None
+38.123.220.16:8080,BD,Dhaka Division,Dhaka,"23.7104,90.4074",AS23956 AmberIT Limited,None
+103.189.254.57:1111,US,Missouri,Saint Charles,"38.7839,-90.4812",AS20115 Charter Communications,None
+72.10.160.92:31635,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+46.146.202.102:8080,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS17451 BIZNET NETWORKS,None
+103.129.201.35:8080,US,New York,New York City,"40.7143,-74.0060",AS3257 GTT Communications Inc.,None
+154.6.189.35:3128,HK,Central and Western,Central,"22.2830,114.1585","AS396856 Sharon Networks, LLC",None
+102.0.5.152:8080,BO,Santa Cruz Department,Santa Cruz de la Sierra,"-17.7863,-63.1812",AS25620 COTAS LTDA.,None
+194.182.163.117:3128,ID,Central Java,Surakarta,"-7.5561,110.8317",AS136879 DELAPAN BIT,None
+183.234.215.11:8443,PE,Junin,Huancayo,"-12.0651,-75.2049",AS272801 RED AMONES S.A.C.,None
+189.22.234.32:80,SG,Singapore,Singapore,"1.2897,103.8501","AS26496 GoDaddy.com, LLC",None
+178.48.68.61:18080,PH,Central Visayas,Talibon,"10.1492,124.3250",AS132199 Globe Telecom Inc.,None
+79.121.102.227:8080,NL,North Holland,Amsterdam,"52.3740,4.8897",AS216139 Iron Hosting Centre LTD,None
+67.43.228.250:29635,CN,Hebei,Shijiazhuang,"38.0414,114.4786",AS4134 CHINANET-BACKBONE,None
+106.42.30.243:82,NP,Bagmati Province,Kathmandu,"27.7017,85.3206","AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",None
+103.106.231.188:42083,IN,Karnataka,Doddaballapura,"13.2257,77.5750","AS20473 The Constant Company, LLC",None
+122.185.180.190:32650,CN,Shanghai,Shanghai,"31.2222,121.4581",AS4134 CHINANET-BACKBONE,None
+119.252.173.26:8080,NL,North Holland,Amsterdam,"52.3740,4.8897",AS213371 SQUITTER NETWORKS,None
+45.185.163.111:999,MY,Selangor,Petaling Jaya,"3.1073,101.6067",AS9930 TTNET-MY,None
+103.139.242.117:83,FR,Hauts-de-France,Villers-Saint-Paul,"49.2888,2.4897",AS21409 Ikoula Net SAS,None
+134.209.23.180:8888,FI,Uusimaa,Helsinki,"60.1695,24.9354",AS24940 Hetzner Online GmbH,None
+103.160.205.230:8080,US,New Jersey,North Bergen,"40.8043,-74.0121","AS14061 DigitalOcean, LLC",None
+188.166.197.129:3128,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS7713 PT Telekomunikasi Indonesia,None
+89.117.22.218:8080,IN,Karnataka,Doddaballapura,"13.2257,77.5750","AS14061 DigitalOcean, LLC",None
+152.228.154.20:80,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS63885 PT Inovasi Tjaraka Buana,None
+157.66.85.37:8080,ID,Lampung,Wiralaga Mulya,"-3.8428,105.4939",AS138134 PT Tunas Link Indonesia,None
+51.75.74.18:80,PH,Metro Manila,Quezon City,"14.6488,121.0509",AS9299 Philippine Long Distance Telephone Company,None
+176.9.239.181:80,RO,Mehedinți County,Drobeta-Turnu Severin,"44.6269,22.6529",AS49052 DATA ZYX SRL,None
+103.106.231.188:42448,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS46023 PT Quantum Tera Network,None
+152.26.229.52:9443,US,California,Santa Clara,"37.3483,-121.9844","AS14061 DigitalOcean, LLC",None
+45.8.21.156:80,NL,North Brabant,Roosendaal,"51.5308,4.4653",AS43350 NForce Entertainment B.V.,None
+41.59.90.171:80,ID,Central Java,Purwokerto,"-7.4214,109.2344",AS55666 PT Media Sarana Data,None
+190.61.90.117:8080,JP,Hyōgo,Kobe,"34.6913,135.1830",AS24282 KAGOYA JAPAN Inc.,None
+112.78.134.133:7777,AL,Tirana,Tirana,"41.3275,19.8189",AS35444 Digicom SHPK,None
+36.50.11.198:8080,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS58821 PT Lintas Jaringan Nusantara,None
+148.101.179.182:8080,CN,Beijing,Beijing,"39.9075,116.3972",AS4808 China Unicom Beijing Province Network,None
+36.88.137.114:443,ES,Madrid,Madrid,"40.4165,-3.7026",AS396982 Google LLC,None
+190.103.177.131:80,US,Florida,Lockhart,"28.6194,-81.4426","AS33182 HostDime.com, Inc.",None
+1.32.59.217:47045,CO,Arauca Department,Puerto Rondón,"6.2805,-71.1000",AS262186 TV AZTECA SUCURSAL COLOMBIA,None
+103.101.193.46:1111,MX,Mexico City,Mexico City,"19.4285,-99.1277",AS8151 UNINET,None
+103.171.245.165:1080,ID,West Java,Pasarkemis,"-6.1703,106.5303",AS152026 PT Anten Sarana Teknologi,None
+14.97.32.152:80,CN,Shanghai,Shanghai,"31.2222,121.4581",AS4134 CHINANET-BACKBONE,None
+103.106.231.188:42052,ID,East Java,Genteng,"-8.3667,114.1500",AS142394 PT Cahaya Solusindo Internusa,None
+103.106.231.188:42184,ID,Riau,Batam,"1.1494,104.0249",AS7713 PT Telekomunikasi Indonesia,None
+72.10.160.170:31681,IQ,Karbalāʼ,Karbala,"32.6160,44.0249",AS205800 Steps Telecom For Internet Ltd.,None
+103.242.105.187:7777,ES,Murcia,Murcia,"37.9870,-1.1300",AS34511 Fundacion Integra,None
+103.106.231.188:42093,US,California,San Jose,"37.3394,-121.8950",AS46997 Black Mesa Corporation,None
+8.213.151.128:3128,US,Virginia,Ashburn,"39.0437,-77.4875",AS7029 Windstream Communications LLC,None
+116.125.141.115:80,PH,Northern Mindanao,Iligan,"8.2289,124.2434",AS132199 Globe Telecom Inc.,None
+67.43.228.250:15945,BR,Bahia,Itapetinga,"-15.2489,-40.2478",AS265496 MAIQVOX TELECOM,None
+202.179.69.216:58080,CN,Guangdong,Shenzhen,"22.5455,114.0683",AS4134 CHINANET-BACKBONE,None
+185.105.102.189:80,PH,Ilocos,Alaminos,"16.1561,119.9811",AS9299 Philippine Long Distance Telephone Company,None
+27.189.134.162:8089,AL,Tirana,Tirana,"41.3275,19.8189",AS21183 Vodafone Albania Sh.A.,None
+211.234.125.3:443,BD,Dhaka Division,Dhaka,"23.7104,90.4074",AS131464 Digi Jadoo Broadband Ltd,None
+103.106.231.188:42124,GB,England,London,"51.5085,-0.1257",AS16276 OVH SAS,None
+188.166.229.121:80,RU,St.-Petersburg,Saint Petersburg,"59.9386,30.3141",AS20632 PJSC MegaFon,None
+122.52.141.182:8080,HK,Hong Kong,Hong Kong,"22.2783,114.1747","AS45102 Alibaba (US) Technology Co., Ltd.",None
+189.22.234.47:80,US,Virginia,Woodbridge,"38.6582,-77.2497","AS45102 Alibaba (US) Technology Co., Ltd.",None
+221.231.13.198:1080,BD,Dhaka Division,Dhaka,"23.7104,90.4074",AS23688 Link3 Technologies Ltd.,None
+189.22.234.39:80,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS131111 PT Mora Telematika Indonesia,None
+103.138.185.1:83,US,Arizona,Tempe,"33.4148,-111.9093","AS26496 GoDaddy.com, LLC",None
+103.175.46.13:8080,CN,Zhejiang,Jiaxing,"30.7522,120.7500","AS136190 JINHUA, ZHEJIANG Province, P.R.China.",None
+202.47.188.25:5566,HK,Hong Kong,Hong Kong,"22.2783,114.1747","AS45102 Alibaba (US) Technology Co., Ltd.",None
+45.7.64.142:999,ID,Central Java,Purbalingga,"-7.3881,109.3639","AS45317 Jaringan Lintas Utara, PT",None
+103.175.46.20:3125,BD,Dhaka Division,Dhaka,"23.7104,90.4074",AS135353 MD SHIRAJUL HAIDER T/A Cue Club Technology,None
+47.251.43.115:33333,DE,Berlin,Berlin,"52.5244,13.4105",AS6724 Strato GmbH,None
+117.103.70.2:8715,RU,Moscow,Moscow,"55.7522,37.6156",AS210079 EuroByte LLC,None
+103.106.231.188:42080,CN,Shanghai,Shanghai,"31.2222,121.4581",AS4809 China Telecom Next Generation Carrier Network,None
+179.1.141.10:8080,BR,São Paulo,São Paulo,"-23.5475,-46.6361",AS4230 CLARO S.A.,None
+103.245.16.134:8080,ID,East Java,Kedungrejo,"-8.4399,114.3205",AS142370 PT Master Star Network,None
+67.43.236.19:6977,EC,Pichincha,Quito,"-0.2298,-78.5250",AS19114 Otecel S.A.,None
+118.69.183.149:8080,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS9341 PT INDONESIA COMNETS PLUS,None
+181.79.234.90:999,CN,Shanghai,Shanghai,"31.2222,121.4581",AS4837 CHINA UNICOM China169 Backbone,None
+93.127.202.226:3128,PK,Sindh,Karachi,"24.8608,67.0104",AS138955 Brisktel Private Limited,None
+27.189.132.162:8089,ID,Jakarta,Jakarta,"-6.2146,106.8451",AS149360 PT Indo Telemedia Solusi,None
+103.164.213.78:8088,HK,Hong Kong,Hong Kong,"22.2783,114.1747","AS45102 Alibaba (US) Technology Co., Ltd.",None
+62.210.37.74:8012,SN,Dakar,Dakar,"14.6937,-17.4441",AS8346 SONATEL-AS Autonomous System,None
+102.214.106.114:8080,IN,Delhi,Delhi,"28.6519,77.2315",AS18101 Reliance Communications Ltd.DAKC MUMBAI,None
+45.84.138.40:7679,CN,Hebei,Shijiazhuang,"38.0414,114.4786",AS4134 CHINANET-BACKBONE,None
+43.133.136.208:8800,ID,Banten,South Tangerang,"-6.2886,106.7179",AS141064 PT Network Lintas Fiberindo,None
+103.72.89.194:8080,AR,Buenos Aires,Mar del Plata,"-38.0004,-57.5562",AS22927 Telefonica de Argentina,None
+103.120.76.254:8080,ZA,Western Cape,Cape Town,"-33.9258,18.4232",AS328471 HERO TELECOMS (PTY) LTD,None
+103.106.231.188:42458,CN,Guangdong,Shenzhen,"22.5455,114.0683",AS23764 CTGNet,None
+175.100.98.190:8080,HN,Intibucá Department,Intibucá,"14.3123,-88.1761",AS27884 CABLECOLOR S.A.,None
+179.32.62.127:999,PE,Callao,Callao,"-12.0566,-77.1181",AS6147 Telefonica del Peru S.A.A.,None
+37.98.219.183:8123,US,Colorado,Denver,"39.7392,-104.9847",AS212238 Datacamp Limited,None
