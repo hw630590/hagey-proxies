@@ -1,7 +1,7 @@
 ip,anonymityLevel,asn,country,isp,latency,org,port,protocols,responseTime,speed,updated_at,upTime,upTimeSuccessCount,upTimeTryCount
 "43.153.55.205","elite","AS132203","US","Shenzhen Tencent Computer Systems Company Limited","197","Tencent Cloud Computing","443","socks5","604","1","2025-01-24T16:04:30.406Z","86","7644","8874"
 "75.119.204.222","elite","AS26347","US","New Dream Network, LLC","146","New Dream Network, LLC","23456","socks5","3911","82","2025-01-24T16:04:30.005Z","70","6226","8848"
-"37.221.146.138","elite","AS3255","UA","State Enterprise Scientific and Telecommunication Centre \"Ukrainian Academic an","47","Radio Service Ltd","1080","socks5","980","1","2025-01-24T16:04:30.508Z","86","7648","8874"
+"37.221.146.138","elite","AS3255","UA","State Enterprise Scientific and Telecommunication Centre"Ukrainian Academic an","47","Radio Service Ltd","1080","socks5","980","1","2025-01-24T16:04:30.508Z","86","7648","8874"
 "110.81.64.45","elite","AS4134","CN","Chinanet","236","Chinanet FJ","21212","socks5","5105","1","2025-01-24T16:04:30.104Z","61","5325","8775"
 "188.165.201.173","elite","AS16276","FR","OVH SAS","5","OVH ISP","51102","socks5","5495","1","2025-01-24T16:04:30.408Z","100","8860","8861"
 "173.212.227.160","elite","AS51167","DE","Contabo GmbH","9","Contabo GmbH","21025","socks5","1063","1","2025-01-24T16:04:30.493Z","99","2007","2024"
