@@ -3,4 +3,3 @@ ip,port,protocol,download mbps,last checked,status,https,provider,country,speed
 68.71.242.118,4145,socks5,5.5 mbps,"21:54 gmt, 31/01/25",online,no,"Performive LLC","United States",slow
 68.71.240.210,4145,socks5,17 mbps,"21:57 gmt, 31/01/25",online,no,"Performive LLC","United States",fast
 68.71.252.38,4145,socks5,6.1 mbps,"21:59 gmt, 31/01/25",online,no,"Performive LLC","United States",slow
-188.165.133.80,30863,socks5,630 mbps 🎉,"22:05 gmt, 31/01/25",online,yes,"OVH ISP","France",turbo
