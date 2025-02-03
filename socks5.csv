@@ -1,0 +1,4 @@
+ip,port,download speed,isp,provider,country,https,status
+188.165.133.80,30863,570mbps,OVH Hispano,OVH ISP,France,yes,online
+77.90.141.26,29745,360mbps,Ownhost,	Mailbox Internet Hizmetleri Ltd. Sti.,Turkey,yes,online
+98.170.57.241,4145,9.5mbps,Cox Communications,Cox Communications Inc.,United States of America,no,online
