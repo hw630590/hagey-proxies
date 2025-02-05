@@ -1,7 +1,7 @@
 ip,port,download speed,isp,provider,country,https,status,last checked
 188.165.133.80,30863,770mbps,OVH Hispano,OVH ISP,France,yes,online,17:31 at 2025-02-23
-77.90.141.26,29745,180mbps,Ownhost,	Mailbox Internet Hizmetleri Ltd. Sti.,Turkey,yes,online,17:31 at 2025-02-23
+77.90.141.26,29745,180mbps,Ownhost,	Mailbox Internet Hizmetleri Ltd. Sti.,Turkey,yes,offline,17:31 at 2025-02-23
 98.170.57.241,4145,3.4mbps,Cox Communications,Cox Communications Inc.,USA,no,online,17:31 at 2025-02-23
-129.146.166.74,8712,170mbps,Oracle Corporation,Oracle Corporation,USA,yes,online,17:31 at 2025-02-23
+129.146.166.74,8712,170mbps,Oracle Corporation,Oracle Corporation,USA,yes,offline,17:31 at 2025-02-23
 185.142.33.10,1080,50mbps,MIRholding B.V,MIRHOSTING-US4,US,yes,online,17:35 at 2025-02-23
 64.202.184.249,31239,53mbps,"GoDaddy.com, LLC", "GoDaddy.com, LLC",US,yes,online,17:39 at 2025-02-23
