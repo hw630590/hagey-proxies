@@ -4,3 +4,4 @@ ip,port,protocol,country,region,city,provider,https,download mbps,status,last ch
 98.152.200.61,8081,socks5,United States,California,Brea,Trans Ocean Resources Management,yes,370mbps,online,14/01/25 21:54 GMT
 51.68.160.105,30863,socks5,Ireland,Leinster,Dublin,OVH Hosting Limited,yes,630mpbs,online,14/01/25 22:17 GMT
 192.95.33.162,38793,socks5,Canada,Quebec,Montreal,"OVH Hosting, Inc.",yes,200mbps,online,14/01/25 22:19 GMT
+99.102.104.70,4145,socks5,United States,California,Beverly Hills,Performive,no,1.7mbps,online,14/01/25 22:25 GMT
