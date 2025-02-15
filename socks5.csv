@@ -3,6 +3,6 @@ ip,port,protocol,country,region,city,provider,https,download mbps,status,last ch
 185.142.33.10,1080,socks5,Germany,Hesse,Frankfurt am Main,Kvmva,yes,26mbps,online,15/01/25 8:45 GMT,no
 98.152.200.61,8081,socks5,United States,California,Brea,Trans Ocean Resources Management,yes,560mbps,online,15/01/25 8:46 GMT,no
 51.68.160.105,30863,socks5,Ireland,Leinster,Dublin,OVH Hosting Limited,yes,3.7mpbs,online,16/01/25 9:11 GMT,no
-192.95.33.162,38793,socks5,Canada,Quebec,Montreal,"OVH Hosting, Inc.",yes,error,offline,15/01/25 9:13 GMT,ERR_PROXY_CONNECTION_FAILED
-99.102.104.70,4145,socks5,United States,California,Beverly Hills,Performive,no,error,offline,15/01/25 9:15 GMT,ERR_PROXY_CONNECTION_FAILED
+192.95.33.162,38793,socks5,Canada,Quebec,Montreal,"OVH Hosting, Inc.",yes,error,offline,15/01/25 9:13 GMT,"ERR_PROXY_CONNECTION_FAILED"
+99.102.104.70,4145,socks5,United States,California,Beverly Hills,Performive,no,error,offline,15/01/25 9:15 GMT,"ERR_PROXY_CONNECTION_FAILED"
 98.8.195.160,443,http,United States,Florida,Orlando,Road Runner,yes,19mbps,online,14/01/25 22:26 GMT
