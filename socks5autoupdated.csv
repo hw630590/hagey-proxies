@@ -1,46 +1,15 @@
 IP,Port,Country,Region,City,ISP,Download Speed (MB/s)
-35.79.120.242,3128,Japan,Tokyo,Tokyo,"Amazon.com, Inc.",11.42
-3.129.184.210,80,United States,Ohio,Dublin,"Amazon.com, Inc.",16.09
-72.195.101.99,4145,United States,California,Irvine,Cox Communications Inc.,11.56
-54.248.238.110,80,Japan,Tokyo,Tokyo,"Amazon.com, Inc.",11.26
-18.185.169.150,3128,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,13.25
-204.236.137.68,80,United States,California,San Jose,"Amazon.com, Inc.",14.11
-35.76.62.196,80,Japan,Tokyo,Tokyo,"Amazon.com, Inc.",11.21
-3.17.172.116,32319,United States,Ohio,Dublin,"Amazon.com, Inc.",15.76
-3.78.92.159,3128,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,13.21
-3.12.144.146,3128,United States,Ohio,Dublin,"Amazon.com, Inc.",15.50
-46.51.249.135,3128,Japan,Tokyo,Tokyo,"Amazon.com, Inc.",11.24
-3.136.29.104,80,United States,Ohio,Dublin,"Amazon.com, Inc.",15.02
-44.195.247.145,80,United States,Virginia,Ashburn,Amazon.com,15.60
-3.9.71.167,80,United Kingdom,England,London,Amazon Technologies Inc.,12.94
-3.212.148.199,3128,United States,Virginia,Ashburn,Amazon Technologies Inc.,15.59
-3.127.62.252,80,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,12.43
-3.126.147.182,80,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,12.48
-3.130.65.162,3128,United States,Ohio,Dublin,"Amazon.com, Inc.",15.30
-3.124.133.93,80,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,12.70
-3.97.176.251,3128,Canada,Ontario,Toronto,Amazon Technologies Inc.,15.26
-52.73.224.54,3128,United States,Virginia,Ashburn,"Amazon.com, Inc.",15.96
-3.97.167.115,3128,Canada,Ontario,Toronto,Amazon Technologies Inc.,15.21
-15.236.106.236,3128,France,Île-de-France,Paris,Amazon Technologies Inc.,12.90
-3.126.147.182,3128,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,12.67
-99.80.11.54,3128,Ireland,Leinster,Dublin,"Amazon.com, Inc.",12.81
-3.124.133.93,3128,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,12.66
-18.228.149.161,80,Brazil,São Paulo,São Paulo,Amazon Technologies Inc.,11.83
-54.152.3.36,80,United States,Virginia,Ashburn,"Amazon.com, Inc.",16.26
-15.236.203.245,3128,France,Île-de-France,Paris,Amazon Technologies Inc.,12.67
-3.99.167.1,3128,Canada,Ontario,Toronto,Amazon Technologies Inc.,15.03
-192.252.210.233,4145,United Kingdom,England,London,Performive LLC,12.16
-3.90.100.12,80,United States,Virginia,Ashburn,Amazon Technologies Inc.,16.13
-13.37.59.99,3128,France,Île-de-France,Paris,Amazon Technologies Inc.,12.92
-3.141.217.225,80,United States,Ohio,Dublin,"Amazon.com, Inc.",15.34
-3.139.242.184,80,United States,Ohio,Dublin,"Amazon.com, Inc.",15.23
-3.21.101.158,3128,United States,Ohio,Dublin,"Amazon.com, Inc.",15.22
-3.123.150.192,80,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,12.67
-13.38.176.104,3128,France,Île-de-France,Paris,Amazon Technologies Inc.,12.85
-3.71.239.218,3128,Germany,Hesse,Frankfurt am Main,Amazon Technologies Inc.,12.87
-54.228.164.102,3128,Ireland,Leinster,Dublin,"Amazon.com, Inc.",12.64
-13.36.104.85,80,France,Île-de-France,Paris,Amazon Technologies Inc.,12.97
-13.56.192.187,80,United States,California,San Jose,"Amazon.com, Inc.",13.38
-204.236.176.61,3128,United States,California,San Jose,"Amazon.com, Inc.",13.37
-44.218.183.55,80,United States,Virginia,Ashburn,Amazon.com,14.98
-98.80.66.1,10018,United States,Virginia,Ashburn,BellSouth.net Inc.,14.81
+23.94.21.51,3141,United States,New York,Buffalo,HostPapa,4.61
+23.94.21.59,3153,United States,New York,Buffalo,HostPapa,5.95
+23.94.17.41,3182,United States,New York,Buffalo,HostPapa,1.16
+23.94.21.46,3224,United States,New York,Buffalo,HostPapa,1.06
+23.94.17.57,3172,United States,New York,Buffalo,HostPapa,2.94
+23.95.95.102,3322,United States,New York,Buffalo,HostPapa,1.15
+178.33.42.161,41548,France,Hauts-de-France,Roubaix,OVH SAS,4.27
+43.251.86.69,1080,Bangladesh,Dhaka Division,Tongi,Md. Abdul Kayum Rashed,5.28
+212.47.229.46,16379,France,Île-de-France,Paris,Online S.A.S.,4.50
+103.155.184.122,1088,Bangladesh,Dhaka Division,Azimpur,BCL Online Service,6.69
+23.94.21.34,3142,United States,New York,Buffalo,HostPapa,4.74
+23.95.95.102,3172,United States,New York,Buffalo,HostPapa,6.47
+23.94.21.59,3198,United States,New York,Buffalo,HostPapa,4.87
+212.47.249.156,16379,France,Île-de-France,Boissy-Saint-Léger,Online S.A.S.,1.07
