@@ -1,3 +1,2 @@
 ip,port,protocol,country,region,city,provider,https,download mbps,upload mbps,status,last checked,any errors?,notes
-51.195.119.116,10361,socks5,Germany,Hesse,Limburg an der Lahn,OVH SAS,yes,41.41,40.96,online,"23/02/25 12:35 GMT",no,i made this proxy
 98.152.200.61,8081,socks5,United States,California,Brea,Trans Ocean Resources Management,yes,560,unknown,online,"15/01/25 8:46 GMT",no,"one of the proxies i use mostly"
