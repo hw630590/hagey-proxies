@@ -1,2 +1,2 @@
-ip,port,type,country,isp,https,youtube support?
-23.81.45.202,5258,socks5,Japan,"Leaseweb Japan K.K.",yes,yes
+ip,port,type,country,isp,https,youtube support?,ping
+23.81.45.202,5258,socks5,Japan,"Leaseweb Japan K.K.",yes,yes,"5.0 / 7.9 / 11.3 ms (Japan) | 356.5 / 356.7 / 356.9 ms (Iran)"
